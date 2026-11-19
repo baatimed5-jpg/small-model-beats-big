@@ -1,0 +1,6 @@
+.env
+.venv/
+data/
+models/checkpoints/
+__pycache__/
+web/node_modules/

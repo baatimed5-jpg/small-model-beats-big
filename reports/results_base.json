@@ -1,0 +1,11 @@
+{
+  "contender": "base",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct (zero-shot)",
+  "n": 860,
+  "accuracy": 0.5698,
+  "macro_f1": 0.5681,
+  "precision_offensive": 0.3852,
+  "recall_offensive": 0.9083,
+  "ms_per_message": 33.9,
+  "usd_per_1M_messages": 0.08
+}

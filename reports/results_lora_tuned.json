@@ -1,0 +1,10 @@
+{
+  "contender": "lora_tuned",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct + LoRA (lora), threshold 0.35",
+  "threshold": 0.35,
+  "n": 860,
+  "accuracy": 0.8616,
+  "macro_f1": 0.8227,
+  "precision_offensive": 0.7788,
+  "recall_offensive": 0.7042
+}

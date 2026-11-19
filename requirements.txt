@@ -1,0 +1,14 @@
+# install torch with GPU support first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch
+transformers
+peft
+datasets
+accelerate
+scikit-learn
+gradio
+openai
+matplotlib
+pandas
+fastapi
+uvicorn

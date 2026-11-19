@@ -1,0 +1,11 @@
+{
+  "contender": "api",
+  "model": "openai/gpt-oss-120b",
+  "n": 860,
+  "accuracy": 0.8326,
+  "macro_f1": 0.7845,
+  "precision_offensive": 0.7243,
+  "recall_offensive": 0.6458,
+  "ms_per_message": 472.85,
+  "usd_per_1M_messages": 47.7
+}

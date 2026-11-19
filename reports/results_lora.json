@@ -1,0 +1,11 @@
+{
+  "contender": "lora",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct + LoRA",
+  "n": 860,
+  "accuracy": 0.857,
+  "macro_f1": 0.8021,
+  "precision_offensive": 0.8503,
+  "recall_offensive": 0.5917,
+  "ms_per_message": 41.94,
+  "usd_per_1M_messages": 0.1
+}

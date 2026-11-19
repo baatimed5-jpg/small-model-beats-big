@@ -1,0 +1,29 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+  50/860
+  100/860
+  150/860
+  200/860
+  250/860
+  300/860
+  350/860
+  400/860
+  450/860
+  500/860
+  550/860
+  600/860
+  650/860
+  700/860
+  750/860
+  800/860
+  850/860
+{
+  "contender": "api",
+  "model": "openai/gpt-oss-120b",
+  "n": 860,
+  "accuracy": 0.8326,
+  "macro_f1": 0.7845,
+  "precision_offensive": 0.7243,
+  "recall_offensive": 0.6458,
+  "ms_per_message": 472.85,
+  "usd_per_1M_messages": 47.7
+}
